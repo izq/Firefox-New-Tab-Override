@@ -10,7 +10,7 @@ And the result is insanely fast.
 ## Installation
 
 First, download the files _mozilla.cfg_ and _local-settings.js_ of this repo.
-Open _mozilla.cfg_ with your favorite text editor, and edit the line
+Open _mozilla.cfg_ in your favorite text editor, and edit the line
 ```
 var newTabURL = "file:///home/user/homepage/index.html";
 ```
