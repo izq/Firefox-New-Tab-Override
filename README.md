@@ -3,7 +3,7 @@ Modifying the "browser.newtab.url" preference in Firefox was a very simple way t
 
 By removing it in the version 41 of its browser for "security reasons", Mozilla effectively managed to force its users to use shady, sketchy addons. Many of these extensions require a lot of permissions, and will want to have access to your browsing history and/or bookmarks. Many more won't have the functionalities you're looking for, for instance opening a simple HTML file stored on your local disk.
 
-There's in fact a way to configure the page displayed when opening a new tab, [without any addon](https://support.mozilla.org/en-US/questions/1210576).
+**There's in fact a way to configure the page displayed when opening a new tab, [without any addon](https://support.mozilla.org/en-US/questions/1210576).**
 
 And the result is insanely fast.
 
